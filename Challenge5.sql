@@ -1,0 +1,1 @@
+select * from keluarga_budi where generasi_ke = 2 AND jenis_kelamin = "P";

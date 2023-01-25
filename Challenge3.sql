@@ -1,0 +1,1 @@
+select * from keluarga_budi where id_ortu is not null;
